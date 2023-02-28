@@ -1,0 +1,32 @@
+/* #section{
+width: 1443px;
+height: 675px;
+
+}
+
+#header{
+    width: 1438px;
+    height: 137px;
+}
+
+.container{
+    width: 1172px;
+    height: 72px;
+}
+
+
+.navigation{
+border: solid 1px red;
+    
+}
+
+.navigation ul{
+margin: 10px 100px 0px;    
+display: flex;
+}
+
+.navigation ul li{
+list-style: none;
+padding: 5px 5px;
+color: #fff;
+} */
